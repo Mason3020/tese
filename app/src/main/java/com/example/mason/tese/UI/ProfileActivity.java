@@ -1,10 +1,12 @@
-package com.example.mason.tese;
+package com.example.mason.tese.UI;
 
 import android.media.Image;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ImageButton;
 import android.widget.TextView;
+
+import com.example.mason.tese.R;
 
 public class ProfileActivity extends AppCompatActivity {
 
